@@ -1,7 +1,7 @@
 # RTS
-Install sencha CMD -> https://www.sencha.com/products/extjs/cmd-download/
-Download sencha SDK(ExtJS sources) -> https://www.sencha.com/legal/gpl/
-Add sencha cmd to Path variable
+- Install sencha CMD -> https://www.sencha.com/products/extjs/cmd-download/
+- Download sencha SDK(ExtJS sources) -> https://www.sencha.com/legal/gpl/
+- Add sencha cmd to Path variable
 
 - 	sencha generate workspace /path/to/workspace(ex: D:/work/Workspace)
 - 	sencha -sdk /path/to/ExtSDK(ex: D:/SenchaSources/SenchaExtJS) 
